@@ -1,5 +1,5 @@
+package controller;
 import model.*;
-import controller.*;
 import java.util.Date;
 
 public class CtrlPrograma {
